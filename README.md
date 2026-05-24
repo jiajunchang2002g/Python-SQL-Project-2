@@ -6,8 +6,8 @@
 This is a walkthrough of data science fundamentals using SQL and Python, focusing on clarity and simplicity.  
 Analyze a fictional dataset of bike retail store orders with data using Python and SQL to uncover business insights, identify trends, and provide actionable recommendations. 
 
-![alt text](img\output4.png)
-![alt text](img\output1.png)
+![alt text](img/output4.png)
+![alt text](img/output1.png)
 
 ## Background
 The fictional bike store is a relational database designed for teaching SQL and analytics. The dataset models typical retail entities (brands, categories, products, customers, orders, order_items, stocks, staffs, and stores) and is provided as CSV files in the `input\bike-store-sample-database` folder.
